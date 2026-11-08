@@ -1,0 +1,5 @@
+# Governance-Decay P3 prereg seal — 2026-11-07T16:09:23Z
+# Carried frozen artifacts re-listed for continuity.
+893fe42d81442782a9a7d34197c0cfc56e44ceb2c1431d29a5ef360daba7028b  PREREG_GOVDECAY_P3.md
+2a4222983697cf4328a1fce65bb14eb0ff94d415f401eed1a11a1cbff0c2431b  scenarios.json
+cf060077eeaec59a6e53c08872e68c9c147a2aff8240f4e8f1cf44904513db57  grader.py

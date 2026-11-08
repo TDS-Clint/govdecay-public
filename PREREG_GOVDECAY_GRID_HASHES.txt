@@ -1,0 +1,5 @@
+# Governance-Decay GRID (Phase 2) prereg seal — 2026-11-07T03:41:58Z
+# Freezes the grid prereg; carried artifacts (scenarios, grader) re-listed for continuity.
+fbebb2049a8b8f170e25ec12f914664b05f24cec4a3ae7490ca5ea202cb1be75  PREREG_GOVDECAY_GRID.md
+2a4222983697cf4328a1fce65bb14eb0ff94d415f401eed1a11a1cbff0c2431b  scenarios.json
+cf060077eeaec59a6e53c08872e68c9c147a2aff8240f4e8f1cf44904513db57  grader.py

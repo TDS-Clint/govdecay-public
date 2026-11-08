@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+*_report*.json
+*.quick.json
+*_ledger.jsonl
+ref_ledger.jsonl
+vor_pin_ledger.jsonl
+.DS_Store

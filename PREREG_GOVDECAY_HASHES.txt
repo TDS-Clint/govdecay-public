@@ -1,0 +1,5 @@
+# Governance-Decay prereg seal — 2026-11-07T03:18:49Z
+# These SHA-256 hashes freeze the prereg and the artifacts it governs.
+e54ceb66f0f003fecf13c84263e99a49f73f5f8633ec7097eed921a1b3a462d3  PREREG_GOVDECAY.md
+2a4222983697cf4328a1fce65bb14eb0ff94d415f401eed1a11a1cbff0c2431b  scenarios.json
+cf060077eeaec59a6e53c08872e68c9c147a2aff8240f4e8f1cf44904513db57  grader.py
